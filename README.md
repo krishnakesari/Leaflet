@@ -3,6 +3,8 @@
 Leaflet packages provides flexibility and customization to provide complex data driven insights.
 In this repository, I will first build different building blocks of a map and finally, brings all components to make an Interactive Shiny Dashboard
 
+I will be using Google Country level data from https://developers.google.com/public-data/docs/canonical/countries_csv
+
 1. Creating a base map
 2. Map Layers
 3. Adding Markers/Circles
