@@ -7,9 +7,9 @@ I will be using Google Country level data from https://developers.google.com/pub
 
 1. Creating a base map
 2. Map Layers
-3. Adding Markers/Circles
+3. Adding Location Pins/Markers/Circles
 4. Coloring Markers/Circles
-5. Using Google APIs to fill missing Geo Locations in Data
+5. Setting Map Size
 6. Map Filters
 7. Building a Interactive features using HTML & CSS
 8. Mini Map for easy Navigation
