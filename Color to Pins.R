@@ -6,7 +6,7 @@ data <- read.csv("countries.csv")
 
 colnames(data)
  
- getcolor <- function(data) {
+getcolor <- function(data) {
         sapply(data$country, function(country) {
           if (country == 'US'){ 
             'red' 
