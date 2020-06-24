@@ -1,7 +1,7 @@
 library(leaflet)
 library(readr)
 
-## Data from Google API
+## Data from Google API can be downloaded as csv
 
 # Latest Data can be accessed through this link
 # https://developers.google.com/public-data/docs/canonical/countries_csv
